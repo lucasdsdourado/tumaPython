@@ -1,0 +1,25 @@
+1 - De qual cidade está falando?
+
+2 - Em qual área atua ou estuda?
+
+3 - Qual o objetivo ao fazer o curso?
+
+4 - Você já programou?
+----------------------------------------------
+1 - online
+-- > Colab Google
+-- > Anaconda Cloud
+-- > Repl.it
+-- > Pytho anyware
+
+2  - Local
+-- > Instalar python
+-- > IDE (vscode / cursor)
+----------------------------------------------
+Extensões do arquivo
+
+Script
+.py
+
+Notebook
+.ipynb
